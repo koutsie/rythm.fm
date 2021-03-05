@@ -1,0 +1,38 @@
+@-moz-document url-prefix("https://rythm.fm/app/"), url-prefix("") {
+body {
+     color: #fff;
+     font-family: 'Inter', sans-serif;
+     background-color: #000000;
+}
+ .jss9 {
+     background-color: #000000;
+}
+ .jss8 {
+     background-color: #000;
+}
+ .MuiButton-containedPrimary-126 {
+     color: #fff;
+     background-color: #f00;
+}
+ .jss49 {
+     outline: 1px solid white;
+     background-color: #000;
+}
+ .jss16 {
+     outline: 1px solid white;
+}
+ .jss17 {
+     outline: 1px solid white;
+}
+ .jss12 {
+     outline: 1px solid white;
+     background-color: #000;
+}
+ .jss55 {
+     background-color: #000;
+}
+ .jss52 {
+     outline: 1px solid white;
+     background-color: #000;
+}
+}
