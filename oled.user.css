@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name         OLED-rythm
+@description  Nightmode for rythm.fm/app
+@namespace    colormodsig
+@version      0.1.0
+@preprocessor default
+==/UserStyle== */
+
 @-moz-document url-prefix("https://rythm.fm/app/"), url-prefix("") {
 body {
      color: #fff;
